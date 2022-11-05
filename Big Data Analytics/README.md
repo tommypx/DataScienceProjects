@@ -1,4 +1,4 @@
-# Big Data Analytics 
+# Big Data Analytics - Spark
 
 
 *Problem type:* Solve a problem set using pySpark on databricks 
