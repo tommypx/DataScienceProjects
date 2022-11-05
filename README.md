@@ -1,3 +1,3 @@
 # DataScienceProjects
 
-A collection of projects that I have completed, including its code and reports, upon different data science fields.  
+A collection of different data science projects completed are presented above. The programming code and report might be consulted within each folder.    
