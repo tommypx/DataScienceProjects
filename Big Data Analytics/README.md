@@ -9,7 +9,7 @@ Six Degrees of Kevin Bacon is a game based on the "six degrees of separation" co
 
 
 ## Project Overview
-1. Data loading, exploration, visualization and transformation in Spark
-2. Use of PySpark RDD and PySpark SQL (Dataframes)
-3. PageRank algorithm computed using GraphX
-4. Make predictions and an end-to-end pipeline with MLlib
+1. Data loading, exploration, visualization and transformation in Spark.
+2. Use of PySpark RDD and PySpark SQL (Dataframes).
+3. PageRank algorithm computed using GraphX.
+4. Make predictions and an end-to-end pipeline with MLlib.
