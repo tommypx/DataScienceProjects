@@ -9,5 +9,5 @@ The Olympic Games dataset, available in Kaggle, has been selected as the base da
 
 
 ## Project Overview
-1. Build a line plot, stacked bar plot, cloropleth map plot, paraallel plot
+1. Build a line plot, stacked bar plot, cloropleth map plot and parallel plot.
 2. The source code used Plotly library and Dash to build an interactive dashboard, which is available on the following URL https://olympic-evolution.herokuapp.com/
