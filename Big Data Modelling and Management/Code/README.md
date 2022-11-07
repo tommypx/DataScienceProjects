@@ -14,5 +14,5 @@ It is expected that, with this solution, the company will have a better understa
 
 ## Project Overview
 1. Understand and model the database in MongoDB.
-2. Setup the database so that it is performs well for the queries provided
-3. Answer the questions (queries) on the data provided
+2. Setup the database so that it is performs well for the queries provided.
+3. Answer the questions (queries) on the data provided.
