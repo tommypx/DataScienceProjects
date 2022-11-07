@@ -5,7 +5,9 @@
 
 
 ## General Context 
-The Olympic Games dataset, available in Kaggle, has been selected for the visualization project. The dataset gathers information about all athletes, including the medal winners, who participated in all modern Olympic Games, from 1896 until 2016, in both Summer and Winter games. The visualizations built aim to facilitate the understanding of the Evolution of the Olympic Games through the presentation of different relevant information.
+The Olympic Games dataset, available in Kaggle, has been selected for the visualization project. The dataset gathers information about all athletes, including the medal winners, who participated in all modern Olympic Games, from 1896 until 2016, in both Summer and Winter games. 
+
+The visualizations built aim to facilitate the understanding of the Evolution of the Olympic Games through the presentation of different relevant information.
 
 
 ## Project Overview
